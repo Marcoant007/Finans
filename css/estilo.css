@@ -9,12 +9,12 @@
 }
 
 .btn-warning {
-    background: #fff;
     color: black;
 }
 
 .btn-warning:hover {
-    color: #fff;
+    color: black;
+    background: #fff;
 }
 
 footer p a {
